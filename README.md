@@ -23,7 +23,7 @@ Study visits will occur at the Health Discovery Building (HDB) at Dell Medical S
 
 ## What will you be asked to do?
 
-If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, about 3 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to send you daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
+If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, about 3 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
 
 ### V1 visits
 The first study visit (V1) takes about 2.5 hours. You will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
@@ -44,10 +44,10 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 
 | Session                        | When                      | Approximate Duration                        | Compensation |
 |--------------------------------|---------------------------|---------------------------------------------|--------------|
-| V1.x: Baseline                 | Spring                    | 2.5 hrs                                     | $20          |
+| V1: Baseline                 | Spring                    | 2.5 hrs                                     | $20          |
 | At-home assessments            | Spring                    | Daily reports + 3 hrs of online assessments | $20          |
-| V2.x assessments + biospecimen | Spring (3 weeks after V1) | 2 hrs                                       | $20          |
-| V2.x MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
+| V2 assessments + biospecimen | Spring (3 weeks after V1) | 2 hrs                                       | $20          |
+| V2 MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
 | Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
 
 
