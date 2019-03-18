@@ -1,14 +1,3 @@
----
-layout: page
-title: "People"
-date:
-modified:
-excerpt: "Lab members"
-image:
-  feature: /images/mni152.png
-search_omit: true
-sitemap: false
----
 
 ![](/images/dms_logo.png)
       
