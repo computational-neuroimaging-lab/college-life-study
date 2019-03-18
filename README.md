@@ -1,16 +1,17 @@
-      * [Introduction](#introduction)
-      * [Study location](#study-location)
-      * [What will you be asked to do?](#what-will-you-be-asked-to-do)
-         * [V1 visits](#v1-visits)
-         * [V2 visits](#v2-visits)
-      * [Compensation](#compensation)
-      * [Contact](#contact)
+
       
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin! 
 
 ## [**Click here to see if you are eligible to participate in this study!**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) 
 
-
+  * [Introduction](#introduction)
+  * [Study location](#study-location)
+  * [What will you be asked to do?](#what-will-you-be-asked-to-do)
+       * [V1 visits](#v1-visits)
+       * [V2 visits](#v2-visits)
+  * [Compensation](#compensation)
+  * [Contact](#contact)
+  
 ## Introduction
 
 The overall goal of the Undergraduate Longitudinal Brain Study (ULG) is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of emerging adulthood. This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit). This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. 
