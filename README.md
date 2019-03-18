@@ -1,3 +1,4 @@
+![alt text](/images/dms_logo.png "DMS Logo")
 
       
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin! 
