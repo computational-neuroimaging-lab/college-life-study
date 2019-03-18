@@ -1,5 +1,16 @@
-![alt text](/images/dms_logo.png "DMS Logo")
+---
+layout: page
+title: "People"
+date:
+modified:
+excerpt: "Lab members"
+image:
+  feature: /images/dms_logo.png
+search_omit: true
+sitemap: false
+---
 
+![](/images/dms_logo.png)
       
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin! 
 
