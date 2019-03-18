@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin! 
 
-You can use the [editor on GitHub](https://github.com/tbweng/college_life/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [**Click here to see if you are eligible to participate in this study!**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The overall goal of the Undergraduate Longitudinal Brain Study (ULG) is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of emerging adulthood. This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit). This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. 
 
-```markdown
-Syntax highlighted code block
+Each year, we will be conducting a comprehensive assessment of your physical health, mental and emotional health, substance use, social factors, and neurocognitive function. These assessments provide a rich dataset for us to learn about different changes that occur throughout college. We ensure that all data will be kept confidential and stored in a secure and encrypted server.
 
-# Header 1
-## Header 2
-### Header 3
+## Study location
+Study visits will occur at the Health Discovery Building (HDB) at Dell Medical School ([1701 Trinity St., Austin, TX 78712](https://goo.gl/maps/maEBpgS8xH12)).
 
-- Bulleted
-- List
+## What will you be asked to do?
 
-1. Numbered
-2. List
+If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, about 3 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to send you daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
 
-**Bold** and _Italic_ and `Code` text
+### V1 visits
+The first study visit (V1) takes about 2.5 hours. You will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
 
-[Link](url) and ![Image](src)
-```
+### V2 visits
+The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. Before coming in for your V2 visit, we will ask you to provide a saliva sample in a collection tube that we will give you during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of metabolic health. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+When you first arrive at our facility, we will collect your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
 
-### Jekyll Themes
+In between annual visits, we will check in with you during a brief mid-year visit (about 1 hour). During this mid-year check in visit, we will update any contact information and ask you to complete a few short surveys about how your life is changing. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tbweng/college_life/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Each year for the three years following, you will come in for 2 assessment visits and 1 mid-year check-in visit.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Compensation
+
+You can receive up to $120/year. We will pay for breakfast on the fasting days, and in some cases, we can provide assistance with parking and transportation. Each year, we will follow the payment schedule below:
+
+| Session                        | When                      | Approximate Duration                        | Compensation |
+|--------------------------------|---------------------------|---------------------------------------------|--------------|
+| V1.x: Baseline                 | Spring                    | 2.5 hrs                                     | $20          |
+| At-home assessments            | Spring                    | Daily reports + 3 hrs of online assessments | $20          |
+| V2.x assessments + biospecimen | Spring (3 weeks after V1) | 2 hrs                                       | $20          |
+| V2.x MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
+| Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
+
+
+## Contact
+If you have any questions, please contact us at 512-495-5554 or <brainstudy@austin.utexas.edu>.
