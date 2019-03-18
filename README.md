@@ -5,7 +5,7 @@ date:
 modified:
 excerpt: "Lab members"
 image:
-  feature: /images/dms_logo.png
+  feature: /images/mni152.png
 search_omit: true
 sitemap: false
 ---
