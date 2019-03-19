@@ -9,9 +9,8 @@ image:
 search_omit: true
 sitemap: false
 ---
-# Research Team
 
-## Investigators
+# Investigators
 Cameron Craddock, PhD
 
 Elizabeth Widen, PhD
@@ -25,7 +24,7 @@ Charles Nemeroff, PhD
 John Virostko, PhD
 
 
-## Staff
+# Staff
 Timothy Weng, PhD
 
 Manwitha Dodla, BS
@@ -34,4 +33,4 @@ Ruben Vela, MS
 
 Angela Schumaker, LP, BS EHS
 
-## Research assistants
+# Research assistants
