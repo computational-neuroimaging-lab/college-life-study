@@ -5,7 +5,7 @@ date:
 modified:
 excerpt: "Research Team"
 image:
-  feature: dms_logo.png
+  feature: /images/dms_logo.png
 search_omit: true
 sitemap: false
 ---
@@ -34,3 +34,4 @@ Ruben Vela, MS
 Angela Schumaker, LP, BS EHS
 
 # Research assistants
+*under construction*
