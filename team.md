@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Research Team"
+date:
+modified:
+excerpt: "Research Team"
+image:
+  feature: dms_logo.png
+search_omit: true
+sitemap: false
+---
 # Research Team
 
 ## Investigators
