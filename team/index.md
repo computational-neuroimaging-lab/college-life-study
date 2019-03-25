@@ -21,7 +21,7 @@ Mbemba Jabbi, PhD
 
 Charles Nemeroff, PhD
 
-John Virostko, PhD
+Jack Virostko, PhD
 
 
 # Staff
