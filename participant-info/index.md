@@ -5,7 +5,7 @@ date:
 modified:
 excerpt: "Participant Information"
 image:
-  feature:/images/UT_students.jpg
+  feature:images/UT_students.jpg
 search_omit: true
 sitemap: false
 ---
