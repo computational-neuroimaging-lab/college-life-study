@@ -1,4 +1,4 @@
-![](/images/UT_students.jpg)
+
 
 ---
 layout: page
@@ -7,11 +7,11 @@ date:
 modified:
 excerpt: "Participant Information"
 image:
-  feature:
+  feature:/images/UT_students.jpg
 search_omit: true
 sitemap: false
 ---
-
+![](/images/UT_students.jpg)
 *under construction*
 
 # Saliva Collection
