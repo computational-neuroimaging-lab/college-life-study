@@ -6,7 +6,11 @@ locale: en-US
 title: "UT College Life Study"
 description: "A longitudinal study of undergraduate students UT Austin."
 baseurl: "/college-life-study"
+url: https://tbweng.github.io/college-life-study/
 
+sass:
+  style: compressed
+  
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
