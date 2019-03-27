@@ -14,6 +14,7 @@
         <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
       </header>
       <div class="entry-content">
+        {% include social-share.html %}
         {{ content }}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
@@ -21,7 +22,7 @@
 </div><!-- /#main -->
   
 
-{% include social-share.html %}
+
 
 
 </body>
