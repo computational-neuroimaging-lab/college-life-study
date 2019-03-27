@@ -1,4 +1,15 @@
-![](/images/dms_logo.png)
+---
+layout: page
+title: "Home"
+date:
+modified:
+excerpt: "Home"
+image:
+  feature: dms_logo.png
+search_omit: true
+sitemap: false
+---
+
 ![](/images/mni152.png)  
 
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin! 
