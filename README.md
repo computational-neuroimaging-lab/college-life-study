@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![](/images/dms_logo.png)  
 ![](/images/mni152.png)  
 
