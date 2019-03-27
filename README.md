@@ -24,7 +24,7 @@ Each year, we will be conducting a comprehensive assessment of your physical hea
 ## Study locations
 Study visits will occur at:
 - Health Discovery Building (HDB) at Dell Medical School ([1701 Trinity St., Austin, TX 78712](https://goo.gl/maps/maEBpgS8xH12)).
-- (Health and Integrative Physiology Lab)[https://sites.edb.utexas.edu/hipl/contact/], Bellmont Hall Room 804/816/822A (2109 San Jacinto Blvd. Austin, TX 78712[https://goo.gl/maps/kaHbZX8aHm22])
+- [Health and Integrative Physiology Lab](https://sites.edb.utexas.edu/hipl/contact/), Bellmont Hall Room 804/816/822A ([2109 San Jacinto Blvd. Austin, TX 78712](https://goo.gl/maps/kaHbZX8aHm22))
 
 ## What will you be asked to do?
 
