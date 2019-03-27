@@ -5,7 +5,11 @@ date:
 modified:
 excerpt: "Participant Information"
 image:
+<<<<<<< HEAD
   feature: UT_students.jpg
+=======
+  feature: images/UT_students.jpg
+>>>>>>> e60040d2570ba7e8838cfa1f9b718b684cf17df5
 search_omit: true
 sitemap: false
 ---
