@@ -7,7 +7,7 @@ excerpt: "Research Team"
 image:
   feature: /images/dms_logo.png
 search_omit: true
-sitemap: false
+sitemap: true
 ---
 
 # Investigators
