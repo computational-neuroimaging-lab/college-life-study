@@ -1,3 +1,4 @@
+![](/images/UT_students.jpg)
 ---
 layout: page
 title: "Participant Information"
@@ -5,7 +6,7 @@ date:
 modified:
 excerpt: "Participant Information"
 image:
-  feature: UT_students.jpg
+  feature:
 search_omit: true
 sitemap: false
 ---
