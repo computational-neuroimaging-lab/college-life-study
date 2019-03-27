@@ -1,9 +1,12 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
-
+<head>
+{% include head.html %}
+</head>
 
 <body id="page">
-{% include head.html %}
+  
+{% include navigation.html %}
 {% include social-share.html %}
 
 <div id="main" role="main">
