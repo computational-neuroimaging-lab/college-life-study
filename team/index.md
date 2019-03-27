@@ -5,9 +5,9 @@ date:
 modified:
 excerpt: "Research Team"
 image:
-  feature: /images/dms_logo.png
+  feature: dms_logo.png
 search_omit: true
-sitemap: true
+sitemap: false
 ---
 
 # Investigators
