@@ -21,8 +21,10 @@ The overall goal of the Undergraduate Longitudinal Brain Study (ULG) is to incre
 
 Each year, we will be conducting a comprehensive assessment of your physical health, mental and emotional health, substance use, social factors, and neurocognitive function. These assessments provide a rich dataset for us to learn about different changes that occur throughout college. We ensure that all data will be kept confidential and stored in a secure and encrypted server.
 
-## Study location
-Study visits will occur at the Health Discovery Building (HDB) at Dell Medical School ([1701 Trinity St., Austin, TX 78712](https://goo.gl/maps/maEBpgS8xH12)).
+## Study locations
+Study visits will occur at:
+- Health Discovery Building (HDB) at Dell Medical School ([1701 Trinity St., Austin, TX 78712](https://goo.gl/maps/maEBpgS8xH12)).
+- (Health and Integrative Physiology Lab)[https://sites.edb.utexas.edu/hipl/contact/], Bellmont Hall Room 804/816/822A (2109 San Jacinto Blvd. Austin, TX 78712[https://goo.gl/maps/kaHbZX8aHm22])
 
 ## What will you be asked to do?
 
@@ -34,7 +36,7 @@ The first study visit (V1) takes about 2.5 hours. You will take part in intervie
 ### V2 visits
 The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. Before coming in for your V2 visit, we will ask you to provide a saliva sample in a collection tube that we will give you during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of metabolic health. 
 
-When you first arrive at our facility, we will collect your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
+When you first arrive at our facility, we will store your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
 
 In between annual visits, we will check in with you during a brief mid-year visit (about 1 hour). During this mid-year check in visit, we will update any contact information and ask you to complete a few short surveys about how your life is changing. 
 
