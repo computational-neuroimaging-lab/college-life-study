@@ -1,4 +1,5 @@
 ![](/images/UT_students.jpg)
+
 ---
 layout: page
 title: "Participant Information"
