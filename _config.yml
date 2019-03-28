@@ -7,7 +7,6 @@ title: "UT College Life Study"
 description: "A longitudinal study of undergraduate students UT Austin."
 baseurl: "/college-life-study"
 url: https://tbweng.github.io/college-life-study
-logo: "/images/dms_logo.png"
 
 sass:
   style: compressed
@@ -17,3 +16,9 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
