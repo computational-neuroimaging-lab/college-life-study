@@ -5,11 +5,11 @@ image:
   feature: dms_logo.png
 ---
 
-index.md
 ![](/images/mni152.png)  
 
 
 
+# index.md
 ## [**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**
 
 # Table of Contents
