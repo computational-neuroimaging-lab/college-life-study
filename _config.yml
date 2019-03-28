@@ -7,6 +7,7 @@ title: "UT College Life Study"
 description: "A longitudinal study of undergraduate students UT Austin."
 baseurl: "/college-life-study"
 url: https://tbweng.github.io/college-life-study
+logo: "/images/dms_logo.png"
 
 sass:
   style: compressed
