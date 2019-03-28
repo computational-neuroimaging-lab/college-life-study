@@ -3,8 +3,7 @@ layout: page
 date:
 modified:
 excerpt: "Research Team"
-image:
-  feature: dms_logo.png
+image: dms_logo.png
 search_omit: true
 sitemap: false
 ---
