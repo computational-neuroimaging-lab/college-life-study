@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Research Team"
 date:
 modified:
 excerpt: "Research Team"
