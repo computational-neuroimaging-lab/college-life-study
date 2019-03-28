@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research Team"
+exerpt: "Research Team"
 image: 
   feature: dms_logo.png
 search_omit: true
