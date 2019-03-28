@@ -9,6 +9,7 @@ baseurl: "/college-life-study"
 url: https://tbweng.github.io/college-life-study
 
 sass:
+  sass_dir: _sass
   style: compressed
   
 google_fonts:
