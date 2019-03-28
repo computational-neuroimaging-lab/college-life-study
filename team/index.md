@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Research Team"
-image: dms_logo.png
+image: 
+      feature: dms_logo.png
 search_omit: true
 sitemap: false
 ---
