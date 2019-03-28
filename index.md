@@ -2,6 +2,8 @@
 layout: page
 image:
   feature: dms_logo.png
+search_omit: true
+sitemap: false
 ---
 
 ![](/images/mni152.png)  
