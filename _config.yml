@@ -18,8 +18,3 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
-# Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
