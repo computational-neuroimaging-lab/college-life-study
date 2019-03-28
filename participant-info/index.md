@@ -3,7 +3,7 @@ layout: page
 title: "Participant Information"
 date:
 modified:
-excerpt: "Participant Information"
+excerpt:
 image:
   feature: UT_students.jpg
 search_omit: true
