@@ -3,11 +3,9 @@ layout: page
 exerpt: "Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!"
 image:
   feature: dms_logo.png
-search_omit: true
-sitemap: true
 ---
 
-
+index.md
 ![](/images/mni152.png)  
 
 
