@@ -8,8 +8,6 @@ search_omit: true
 sitemap: false
 ---
 
-
-
 # Saliva Collection
 
 ## Why are we collecting saliva?
