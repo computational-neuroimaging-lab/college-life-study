@@ -1,16 +1,14 @@
 ---
 layout: page
 title: "Participant Information"
-date:
-modified:
-excerpt:
+excerpt: "Under construction"
 image:
   feature: UT_students.jpg
 search_omit: true
 sitemap: false
 ---
 
-*under construction*
+
 
 # Saliva Collection
 
