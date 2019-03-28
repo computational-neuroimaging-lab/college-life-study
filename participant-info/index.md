@@ -20,4 +20,8 @@ At the end of your V1 visit, we will provide you with a tube for saliva collecti
 - collect saliva immediately after you wake up (before brushing teeth) 
 - avoid eating or drinking before sample collection
 
-[Click here](https://www.youtube.com/watch?v=8-AxSDHLbBE) for a video demonstration.
+See below for a video demonstration:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8-AxSDHLbBE
+" target="_blank"><img src="http://img.youtube.com/vi/8-AxSDHLbBE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
