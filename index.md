@@ -6,7 +6,7 @@ search_omit: true
 sitemap: false
 ---
 
-<i class="fas fa-igloo"></i>
+
 ![](/images/mni152.png)  
 
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin! 
