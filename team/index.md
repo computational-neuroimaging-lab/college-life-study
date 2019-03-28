@@ -1,7 +1,5 @@
 ---
 layout: page
-date:
-modified:
 excerpt: "Research Team"
 image: dms_logo.png
 search_omit: true
