@@ -62,4 +62,4 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 
 
 ## Contact
-If you have any questions, please contact us at 512-495-5554 or <brainstudy@austin.utexas.edu>.
+If you have any questions, please contact us at (512) 495-5554 or <brainstudy@austin.utexas.edu>.
