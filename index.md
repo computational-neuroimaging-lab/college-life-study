@@ -1,9 +1,9 @@
 ---
 layout: page
 image:
-  feature: /images/dms_logo.png
+  feature: dms_logo.png
 search_omit: true
-sitemap: false
+sitemap: true
 ---
 
 
