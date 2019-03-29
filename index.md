@@ -17,6 +17,7 @@ image:
   * [What will you be asked to do?](#what-will-you-be-asked-to-do)
        * [V1 visits](#v1-visits)
        * [V2 visits](#v2-visits)
+       * [Mid-year check in visits](#mid-year-check-in-visits)
   * [Compensation](#compensation)
   * [Contact](#contact)
   
