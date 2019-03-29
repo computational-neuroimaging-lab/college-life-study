@@ -8,10 +8,20 @@ sitemap: false
 ---
 
 ***Under construction***
+# Table of Contents
+
+  * [Ecological Momentary Assessments (EMA)](#ecological-momentary-assessments-(EMA))
+  * [Saliva Collection](#saliva-collection)
+  * [Blood Collection](#blood-collection)
+
+
+# Ecological Momentary Assessments (EMA)
+Ecological momentary assessment (EMA) is a method of data collection that tries to capture peoples’ behaviors and experiences in real time in their natural environments. We will be using the smartphone app, [Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/), to track some real-world wellness behaviors. Each day, your phone will prompt you to answer several questions about your day. 
 
 # Saliva Collection
 
 ## Why are we collecting saliva?
+
 
 ## Instructions for self-administering at home
 
@@ -25,3 +35,5 @@ See below for a video demonstration:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8-AxSDHLbBE
 " target="_blank"><img src="http://img.youtube.com/vi/8-AxSDHLbBE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+# Blood Collection

@@ -36,16 +36,23 @@ Study visits will occur at:
 If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, about 3 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
 
 ### V1 visits
-The first study visit (V1) takes about 2.5 hours. You will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
+The first study visit (V1) takes about 2.5 hours. During your very first V1 visit, we will explain the procedures of the research study in depth. If you agree to continue, you will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
 
 ### V2 visits
-The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. Before coming in for your V2 visit, we will ask you to provide a saliva sample in a collection tube that we will give you during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of metabolic health. 
+The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. On the morning of your V2 visit, we will ask you to provide a saliva sample immediately after waking up (See details here). We will provide you a saliva collection tube during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. 
 
-When you first arrive at our facility, we will store your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
+Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of your metabolic health. You will begin your V2 visit at the Health and Integrative Physiology Lab where Dr. Harrison will perform a blood draw (See details here). When you first arrive at our facility, we will collect your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. 
 
+After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will meet our research staff at the Health Discovery Building for more assessments. You will undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
+
+
+### Mid-year check in visits
 In between annual visits, we will check in with you during a brief mid-year visit (about 1 hour). During this mid-year check in visit, we will update any contact information and ask you to complete a few short surveys about how your life is changing. 
 
 Each year for the three years following, you will come in for 2 assessment visits and 1 mid-year check-in visit.
+
+## Study timeline
+![](/images/CNL-ULG_Study-Timeline.png)  
 
 
 ## Compensation
