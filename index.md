@@ -18,6 +18,7 @@ image:
        * [V1 visits](#v1-visits)
        * [V2 visits](#v2-visits)
        * [Mid-year check in visits](#mid-year-check-in-visits)
+  * [Study Timeline](#study-timeline)
   * [Compensation](#compensation)
   * [Contact](#contact)
   
