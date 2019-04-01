@@ -20,7 +20,6 @@ Ecological momentary assessment (EMA) is a method of data collection that tries 
 
 # Saliva Collection
 
-## Why are we collecting saliva?
 
 
 ## Instructions for self-administering at home
