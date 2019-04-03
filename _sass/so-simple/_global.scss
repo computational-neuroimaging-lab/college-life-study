@@ -9,9 +9,115 @@
     list-style: none;
   }
 }
+.fun-widget,
+.fun-widget * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  visibility: visible;
+  opacity: 1; }
+
+.fun-widget {
+  display: block;
+  font-size: 1rem;
+  width: auto;
+  min-height: 30px;
+  max-height: 80px;
+  max-width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  float: none;
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+.fun-widget .fun-widget-btn:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  cursor: pointer; }
+
+.fun-widget .fun-widget-btn:focus:before {
+  background: rgba(0, 0, 0, 0.075); }
+
+.fun-widget .fun-widget-btn:active {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2) inset; }
+
+.fun-widget .fun-widget-btn:active:before,
+.fun-widget .fun-widget-btn:active:hover:before,
+.fun-widget .fun-widget-btn:active:focus:before {
+  background: rgba(0, 0, 0, 0.1); }
+
+
+.fun-widget-btn-pulse-animation-hover {
+  -webkit-animation: fun-widget-btn-pulse 1s linear infinite normal;
+  -moz-animation: fun-widget-btn-pulse 1s linear infinite normal;
+  -o-animation: fun-widget-btn-pulse 1s linear infinite normal;
+  animation: fun-widget-btn-pulse 1s linear infinite normal; }
+
+
+.fun-widget-btn-ripple-animation-hover {
+  -webkit-animation: fun-widget-btn-ripple 1s linear infinite normal;
+  -moz-animation: fun-widget-btn-ripple 1s linear infinite normal;
+  -o-animation: fun-widget-btn-ripple 1s linear infinite normal;
+  animation: fun-widget-btn-ripple 1s linear infinite normal; }
+
+* {
+  font-family: 'Lato', sans-serif;
+  background: transparent; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: #5E5E5E; }
+
+body {
+  display: table;
+  width: 100%;
+  table-layout: fixed; }
+
+/* Reboot */
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+.btn {
+  text-align: center;
+  padding: 0 1.5em 0 1.1em;
+  display: inline-block;
+  vertical-align: baseline;
+  white-space: nowrap;
+  cursor: pointer;
+  position: relative;
+  font-weight: bold; }
+
+.btn:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  transition: opacity .1s ease-in-out; }
+
+.btn:hover:after {
+  opacity: 1; }
+
+.btn-label {
+  position: relative;
+  z-index: 2; }
 
 #menu-toggle {
-  display: block;
+  position: relative;
+  display: inline-block;
   margin: 0;
   padding: 0.25em 0.75em 0.5em;
   color: $nav-color;
@@ -23,6 +129,51 @@
   @include breakpoint($medium) {
     display: none;
   }
+}
+
+.fun-widget .fun-widget-btn {
+    display: inline-block;
+    float: none;
+    margin: 0;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: baseline;
+    touch-action: manipulation;
+    cursor: pointer;
+    border: 0;
+    background-image: none;
+    white-space: nowrap;
+    padding: .500em 1.000em .500em 1.000em;
+    min-width: 80px;
+    max-width: 100%;
+    font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    line-height: 1.294em;
+    letter-spacing: normal;
+    border-radius: .295em;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    position: relative;
+    transition: color .5s;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    transform: translateZ(0);
+}
+
+.fun-widget .fun-widget-btn-text {
+    position: relative;
+    z-index: 2;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
 }
 
 .site-nav {
@@ -150,17 +301,10 @@
     margin: 0;
     padding: 0;
   }
-
+x
   a {
     color: lighten($text-color, 35%);
   }
-}
-
-.footnotes {
-  margin: 2rem 0;
-  padding-top: 1rem;
-  border-top: 1px solid $border-color;
-  font-size: 80%;
 }
 
 .more-link {
