@@ -13,7 +13,7 @@ image:
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 150%; text-align: center;">
     	<div class="fun-widget-btn" id="new_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 35%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;" onclick="window.open('https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH', '_blank')">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Click to check if you are eligible for this study!</div>
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Check Eligibility!</div>
     	</div>
     </div>
 </body>
@@ -21,7 +21,7 @@ image:
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 150%; text-align: center;">
     	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://computational-neuroimaging-lab.org/college-life-study/participant-info/'">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Click if you a current participant.</div>
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Current Participants</div>
     	</div>
     </div>
 </body>
@@ -128,7 +128,7 @@ Michelle Harrison, MS, PHD
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 30px; text-align: center;">
     	<div class="fun-widget-btn" id="new_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 35%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;" onclick="window.open('https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH', '_blank')">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Click to see if you are eligible to participate</div>
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255); ">Check Eligibility!</div>
     	</div>
     </div>
 </body>
@@ -136,7 +136,7 @@ Michelle Harrison, MS, PHD
 <body style="" marginwidth="0" marginheight="0">
     <div class="fun-widget" style="font-size: 30px; text-align: center;">
     	<div class="fun-widget-btn" id="enrolled_participant" style="box-shadow: rgba(191, 87, 0, 0.25) 0px 2px 3px; border-radius: 0px 0px 3px 3px; background-color: rgb(191, 87, 0); color: rgb(255, 255, 255); top: 65%;right: auto;bottom: auto;left: 0px;z-index: 2147483644;transition-property: left;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-delay: 50ms;transform-origin: 0 0; opacity: 1;"  onclick="window.location.href='http://computational-neuroimaging-lab.org/college-life-study/participant-info/'">
-    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Click if you are a current participant</div>
+    		<div class="fun-widget-btn-text" style="color: rgb(255, 255, 255);">Current Participants</div>
     	</div>
     </div>
 </body>
