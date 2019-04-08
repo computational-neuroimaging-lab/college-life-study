@@ -77,3 +77,31 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 
 ## Contact
 If you have any questions, please contact us at (512) 495-5554 or <brainstudy@austin.utexas.edu>.
+
+## Research Team
+### Investigators
+Cameron Craddock, PhD
+
+Elizabeth Widen, PhD
+
+Elizabeth Lippard, PhD
+
+Mbemba Jabbi, PhD
+
+Charles Nemeroff, PhD
+
+Jack Virostko, PhD
+
+
+### Staff
+Timothy Weng, PhD
+
+Manwitha Dodla, BS
+
+Ruben Vela, MS
+
+Angela Schumaker, LP, BS EHS
+
+Michelle Harrison, MS, PHD
+
+### Research Assistants
