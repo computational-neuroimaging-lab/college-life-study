@@ -8,7 +8,7 @@ image:
 
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!
 
-## [**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**
+## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
 
 # Table of Contents
 
