@@ -61,7 +61,7 @@ After collecting the saliva, please use the materials we've given you to keep th
 ## Saliva drop-off and Blood Draw (Health and Integrative Physiology Lab)
 Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab. This is where you will bring your saliva tube and have your blood drawn. Please visit their website for contact information and directions to the facility (https://sites.edb.utexas.edu/hipl/contact/).
 
-<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1003.7689449316114!2d-97.73444151187455!3d30.28441315694464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDE3JzAzLjkiTiA5N8KwNDQnMDIuMCJX!5e1!3m2!1sen!2sus!4v1554749668030!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d861.3375200083677!2d-97.73450441187457!3d30.2840939569484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd39eb9243dd31bf1!2sL.+Theo+Bellmont+Hall+(BEL)!5e0!3m2!1sen!2sus!4v1554750288172!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!4v1554749542233!6m8!1m7!1sELdP2TbChjm4gxfPn6t8LQ!2m2!1d30.28423418358856!2d-97.73394193785286!3f85.04291958769409!4f3.0651020932576927!5f0.4006741232090861" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
 
@@ -71,10 +71,10 @@ Please keep in mind that this lab is separate from the study's research team at 
 ## Health Discovery Building (HDB)
 After your blood and saliva collection, you will head to HDB for the rest of your assessments and MRI scan. HDB is about 1/2 mile south of the stadium down Trinity Street. You will again arrive at the 1st floor lobby of HDB where research staff will meet you.
 
-<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3445.590744160097!2d-97.73724424907049!3d30.277239914402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b598954856cd%3A0x5522a12ede655ec8!2sDell+Medical+School+-+Health+Discovery+Building!5e0!3m2!1sen!2sus!4v1554748569887!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen align="left"> </iframe>
+<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3445.590744160097!2d-97.73724424907049!3d30.277239914402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b598954856cd%3A0x5522a12ede655ec8!2sDell+Medical+School+-+Health+Discovery+Building!5e0!3m2!1sen!2sus!4v1554748569887!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen> </iframe>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1554748713110!6m8!1m7!1s1nXMhYvc134JRdOhEjgueg!2m2!1d30.27779748154346!2d-97.73538667034582!3f90.35973011212745!4f6.386626749205206!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen align="right"> </iframe></p>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1554748713110!6m8!1m7!1s1nXMhYvc134JRdOhEjgueg!2m2!1d30.27779748154346!2d-97.73538667034582!3f90.35973011212745!4f6.386626749205206!5f0.4000000000000002" width="600" height="450" frameborder="0" style="border:0" allowfullscreen> </iframe></p>
 
 ## Breakfast
 Before beginning your assessments, we will provide you with $10 cash and a 15-minute break for breakfast. The Nourish Cafe is located in the Health Transformation Building which is connected to HDB. (http://flikcafes.compass-usa.com/nourishcafe/Pages/Home.aspx?lid=b1) After breakfast, meet us back in the HDB lobby to continue with V2. 
