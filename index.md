@@ -39,6 +39,7 @@ ___
   * [Study Timeline](#study-timeline)
   * [Compensation](#compensation)
   * [Contact](#contact)
+  * [Research Team](#research-team)
   
   
 # Introduction
