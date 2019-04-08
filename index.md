@@ -25,16 +25,19 @@ image:
   * [Compensation](#compensation)
   * [Contact](#contact)
   
+  
 # Introduction
 
 The overall goal of the **Undergraduate Longitudinal Brain Study (ULG)** is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of [emerging adulthood](http://jeffreyarnett.com/ARNETT_Emerging_Adulthood_theory.pdf). This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit). This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. 
 
 Each year, we will be conducting a comprehensive assessment of your physical health, mental and emotional health, substance use, social factors, and neurocognitive function. These assessments provide a rich dataset for us to learn about different changes that occur throughout college. We ensure that all data will be kept confidential and stored in a secure and encrypted server.
 
+
 # Study locations
 Study visits will occur at:
 - Health Discovery Building (HDB) at Dell Medical School ([1701 Trinity St., Austin, TX 78712](https://goo.gl/maps/maEBpgS8xH12)).
 - [Health and Integrative Physiology Lab](https://sites.edb.utexas.edu/hipl/contact/), Bellmont Hall Room 804/816/822A ([2109 San Jacinto Blvd. Austin, TX 78712](https://goo.gl/maps/kaHbZX8aHm22))
+
 
 # What will you be asked to do?
 
@@ -77,6 +80,7 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 If you have any questions, please contact us at (512) 495-5554 or <brainstudy@austin.utexas.edu>.
 
 
+
 # Research Team
 ## Investigators
 Cameron Craddock, PhD
@@ -104,6 +108,9 @@ Angela Schumaker, LP, BS EHS
 Michelle Harrison, MS, PHD
 
 ## Research Assistants
+
+
+---
 
 # <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
 
