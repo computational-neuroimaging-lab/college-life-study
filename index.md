@@ -71,9 +71,7 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 | Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
 
 
-## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
 
-## <span style="color:red">[**Click here**](http://computational-neuroimaging-lab.org/college-life-study/participant-info/) **if you are a current participant.**</span>
 
 ## Contact
 If you have any questions, please contact us at (512) 495-5554 or <brainstudy@austin.utexas.edu>.
@@ -105,3 +103,9 @@ Angela Schumaker, LP, BS EHS
 Michelle Harrison, MS, PHD
 
 ### Research Assistants
+
+## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
+
+## <span style="color:red">[**Click here**](http://computational-neuroimaging-lab.org/college-life-study/participant-info/) **if you are a current participant.**</span>
+
+[Back to top](#thank-you-for-your-interest-in-the-undergraduate-longitudinal-brain-study-at-ut-austin-)
