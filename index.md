@@ -10,6 +10,7 @@ image:
 
 ## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
 
+## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **if you are a current participant.**</span>
 # Table of Contents
 
   * [Introduction](#introduction)
@@ -69,6 +70,10 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 | V2 MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
 | Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
 
+
+## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
+
+## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **if you are a current participant.**</span>
 
 ## Contact
 If you have any questions, please contact us at (512) 495-5554 or <brainstudy@austin.utexas.edu>.
