@@ -24,9 +24,11 @@ Timothy Weng, PhD
 
 Manwitha Dodla, BS
 
-Ruben Vela, MS
+Ruben Vela, MA
 
 Angela Schumaker, LP, BS EHS
 
 # Research assistants
-*under construction*
+Shreya Gupta
+
+Shaurya Aggarwal
