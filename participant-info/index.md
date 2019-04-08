@@ -36,6 +36,8 @@ We recommend arriving 10 minutes prior to your scheduled visit time to avoid del
 ## Departure
 The Northbound metro routes 7 and 10 both stop directly in front of HDB, and are a good way to return to main campus. Make sure to exit before Dean Keeton, or you will leave campus! 
 
+[Go to top](#table-of-contents)
+
 
 # At-Home Tasks
 ## Surveys
@@ -45,6 +47,9 @@ After your first visit (V1) and before your second visit (V2), you are tasked wi
 Ecological momentary assessment (EMA) is a method of data collection that tries to capture peoples’ behaviors and experiences in real time in their natural environments. We will be using the smartphone app, [Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/), to track some real-world wellness behaviors. Each day, your phone will prompt you to answer several questions about your day. These are intended to capture your thoughts, attitudes and behaviors in real-time throughout your daily life. 
 
 In addition to pushing these surveys, the Beiwe application passively collects phone data from your phone's sensors and radios. It CANNOT observe the content of your messages, calls or websites/apps visited, nor can it identify anyone you interact with. 
+
+[Go to top](#table-of-contents)
+
 
 # Visit 2 (V2)
 ## 8-hour fast
@@ -85,4 +90,5 @@ Before beginning your assessments, we will provide you with $10 cash and a 15-mi
 ## MRI Scan
 
 
+[Go to top](#table-of-contents)
 
