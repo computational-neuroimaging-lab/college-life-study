@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_no_sidebar
 title: "Participant Information"
 image:
   feature: UT_students.jpg
