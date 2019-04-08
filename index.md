@@ -131,7 +131,9 @@ Angela Schumaker, LP, BS EHS
 Michelle Harrison, MS, PHD
 
 ## Research Assistants
+Shreya Gupta
 
+Shaurya Aggarwal
 
 ___
 
