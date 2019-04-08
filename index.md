@@ -1,4 +1,5 @@
 ---
+title: Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!
 layout: page
 image:
   feature: dms_logo.png
@@ -6,11 +7,10 @@ image:
 
 ![](/images/mni152.png)  
 
-# Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!
+# <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
 
-## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
+# <span style="color:red">[**Click here**](http://computational-neuroimaging-lab.org/college-life-study/participant-info/) **if you are a current participant.**</span>
 
-## <span style="color:red">[**Click here**](http://computational-neuroimaging-lab.org/college-life-study/participant-info/) **if you are a current participant.**</span>
 # Table of Contents
 
   * [Introduction](#introduction)
@@ -42,9 +42,9 @@ If you wish to be in this study, you will first complete a [brief online screene
 The first study visit (V1) takes about 2.5 hours. During your very first V1 visit, we will explain the procedures of the research study in depth. If you agree to continue, you will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
 
 ### V2 visits
-The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. On the morning of your V2 visit, we will ask you to provide a saliva sample immediately after waking up (See details here). We will provide you a saliva collection tube during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. 
+The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. On the morning of your V2 visit, we will ask you to provide a saliva sample immediately after waking up ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#saliva-collection)). We will provide you a saliva collection tube during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. 
 
-Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of your metabolic health. You will begin your V2 visit at the Health and Integrative Physiology Lab where Dr. Harrison will perform a blood draw (See details here). When you first arrive at our facility, we will collect your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. 
+Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of your metabolic health. You will begin your V2 visit at the Health and Integrative Physiology Lab where Dr. Harrison will perform a blood draw ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#blood-collection)). When you first arrive at our facility, we will collect your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. 
 
 After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will meet our research staff at the Health Discovery Building for more assessments. You will undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
 
@@ -71,10 +71,9 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 | Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
 
 
-
-
 ## Contact
 If you have any questions, please contact us at (512) 495-5554 or <brainstudy@austin.utexas.edu>.
+
 
 ## Research Team
 ### Investigators
@@ -104,8 +103,8 @@ Michelle Harrison, MS, PHD
 
 ### Research Assistants
 
-## <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
+# <span style="color:red">[**Click here**](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) **to see if you are eligible to participate in this study!**</span>
 
-## <span style="color:red">[**Click here**](http://computational-neuroimaging-lab.org/college-life-study/participant-info/) **if you are a current participant.**</span>
+# <span style="color:red">[**Click here**](http://computational-neuroimaging-lab.org/college-life-study/participant-info/) **if you are a current participant.**</span>
 
-[Back to top](#thank-you-for-your-interest-in-the-undergraduate-longitudinal-brain-study-at-ut-austin-)
+[Back to top](#table-of-contents)
