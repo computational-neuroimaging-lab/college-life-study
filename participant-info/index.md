@@ -7,7 +7,6 @@ search_omit: true
 sitemap: false
 ---
 
-***Under construction***
 # Table of Contents
 
 - [Scheduling](#scheduling)
