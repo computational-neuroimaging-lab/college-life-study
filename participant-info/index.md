@@ -7,24 +7,26 @@ search_omit: true
 sitemap: false
 ---
 
-# Table of Contents
+Table of Contents
+=================
 
-- [Scheduling](#scheduling)
-- [Visit 1 (V1)](#visit-1--v1-)
-  * [Directions](#directions)
-  * [Arrival](#arrival)
-  * [Departure](#departure)
-- [At-home tasks](#at-home-tasks)
-  * [Home Surveys](#home-surveys)
-  * [Ecological Momentary Assessments (EMA)(Beiwe app)](#ecological-momentary-assessments--ema--beiwe-app-)
-- [Visit 2 (V2)](#visit-2--v2-)
-  * [8-hour fast](#8-hour-fast)
-  * [At-home saliva preparation (morning of V2)](#at-home-saliva-preparation--morning-of-v2-)
-  * [Saliva drop-off and blood draw (Health and Integrative Physiology Lab)](#saliva-drop-off-and-blood-draw--health-and-integrative-physiology-lab-)
-  * [Health Discovery Building (HDB)](#health-discovery-building--hdb-)
-  * [Breakfast](#breakfast)
-  * [MRI Scan](#mri-scan)
-- [Off-season](#off-season)
+   * [Table of Contents](#table-of-contents)
+   * [Scheduling](#scheduling)
+   * [Visit 1 (V1)](#visit-1-v1)
+      * [Directions](#directions)
+      * [Arrival](#arrival)
+      * [Departure](#departure)
+   * [At-home tasks](#at-home-tasks)
+      * [Home Surveys](#home-surveys)
+      * [Ecological Momentary Assessments (EMA)(Beiwe app)](#ecological-momentary-assessments-emabeiwe-app)
+   * [Visit 2 (V2)](#visit-2-v2)
+      * [8-hour fast](#8-hour-fast)
+      * [At-home saliva preparation (morning of V2)](#at-home-saliva-preparation-morning-of-v2)
+      * [Saliva drop-off and blood draw (Health and Integrative Physiology Lab)](#saliva-drop-off-and-blood-draw-health-and-integrative-physiology-lab)
+      * [Health Discovery Building (HDB)](#health-discovery-building-hdb)
+      * [Breakfast](#breakfast)
+      * [MRI Scan](#mri-scan)
+   * [Off-season](#off-season)
 
 ___
 
