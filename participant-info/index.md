@@ -97,9 +97,9 @@ alt="IMAGE ALT TEXT HERE" width="600" height="450" allowfullscreen border="10" /
 After collecting the saliva, please use the materials we've given you to keep the saliva refrigerated up to the moment you hand it to the lab tech. You can use your refrigerator at home, and ice to keep it cold during transport to the lab. 
 
 ## Saliva drop-off and blood draw (Health and Integrative Physiology Lab)
-Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab. This is where you will bring your saliva tube and have your blood drawn. Please [visit their website](https://sites.edb.utexas.edu/hipl/contact/) for contact information and directions to the facility.
+Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab (HIPL). This is where you will bring your saliva tube and have your blood drawn. Please [visit their website](https://sites.edb.utexas.edu/hipl/contact/) for contact information and directions to the facility.
 
-Please keep in mind that this lab is separate from the study's research team at Dell Medical School. You may contact them with questions about the blood draw, saliva drop-off, or facility, but they do not have information regarding the rest of the study.
+Please keep in mind that the HIPL is separate from the study's research team at Dell Medical School. You may contact HIPL with questions about the blood draw, saliva drop-off, or facility, but they do not have information regarding the rest of the study.
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d861.3375200083677!2d-97.73450441187457!3d30.2840939569484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd39eb9243dd31bf1!2sL.+Theo+Bellmont+Hall+(BEL)!5e0!3m2!1sen!2sus!4v1554750288172!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
 
