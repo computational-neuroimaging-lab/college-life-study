@@ -115,6 +115,7 @@ Before beginning your assessments, we will provide you with $10 cash and a 15-mi
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible.
 
 [Back to top](#table-of-contents)
+
 ___
 
 # Off-season 
