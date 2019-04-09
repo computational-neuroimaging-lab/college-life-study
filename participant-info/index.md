@@ -35,13 +35,13 @@ After completing the [study screener](https://redcap.prc.utexas.edu/redcap/surve
 
 # Visit 1 (V1)
 ## Directions
-Your first study visit will be at the [Health Discovery Building (HDB)](https://dellmed.utexas.edu/maps) at Dell Medical School (1701 Trinity St., Austin, TX ). HDB is less than half a mile from Jester Residence Hall, so walking or scooting will be a viable option for many students, weather permitting. 
+Your first study visit will be at the [Health Discovery Building (HDB)](https://dellmed.utexas.edu/maps) at Dell Medical School (1701 Trinity St., Austin, TX ). HDB is less than half a mile from Jester Residence Hall, so walking or scooting will be a viable option for most students, weather permitting. 
 
-If you're coming from West Campus, the [642 West Campus](https://www.capmetro.org/schedmap/?svc=3&f1=642&s=0&d=K) (Stop Name: 2001 San Jacinto & 20th) or [640 Forty Acres](https://www.capmetro.org/schedmap/?svc=3&f1=640&s=0&d=E) (Stop Name: 112 Martin Luther Kind Jr & Congress) Cap Metro routes may be a good option to get you within walking distance to HDB.
+If you're coming from West Campus, the [642 West Campus](https://www.capmetro.org/schedmap/?svc=3&f1=642&s=0&d=K) (Stop Name: 2001 San Jacinto & 20th) or [640 Forty Acres](https://www.capmetro.org/schedmap/?svc=3&f1=640&s=0&d=E) (Stop Name: 112 Martin Luther Kind Jr & Congress) Cap Metro routes may be a good option to get you within a closer walking distance to HDB.
 
-Routes 7 and 10 both offer quick rides from campus along San Jacinto down to 17th street (Stop Name: San Jacinto & 17th). 
+Routes 7 and 10 both offer quick rides from campus along San Jacinto down to 17th street (Stop Name: San Jacinto & 17th), just 1 block from HDB. 
 
-If you'd like to drive, paid parking is available in the [Health Center Garage](https://parking.utexas.edu/parking/garages/health-center-garage-hcg), and at parking meters on or near Trinity Street.
+If you'd like to drive, paid parking is available in the [Health Center Garage](https://parking.utexas.edu/parking/garages/health-center-garage-hcg), and at parking meters on or near Trinity Street. We are not responsible for parking violations and we will not reimburse you for parking fees. 
 
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3445.590744160097!2d-97.73724424907049!3d30.277239914402703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b598954856cd%3A0x5522a12ede655ec8!2sDell+Medical+School+-+Health+Discovery+Building!5e0!3m2!1sen!2sus!4v1554748569887!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen> </iframe>
