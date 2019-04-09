@@ -97,7 +97,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="450" allowfullscreen border="10" /
 After collecting the saliva, please use the materials we've given you to keep the saliva refrigerated up to the moment you hand it to the lab tech. You can use your refrigerator at home, and ice to keep it cold during transport to the lab. 
 
 ## Saliva drop-off and blood draw (Health and Integrative Physiology Lab)
-Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab. This is where you will bring your saliva tube and have your blood drawn. Please visit their website for contact information and directions to the facility (https://sites.edb.utexas.edu/hipl/contact/).
+Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab. This is where you will bring your saliva tube and have your blood drawn. Please [visit their website](https://sites.edb.utexas.edu/hipl/contact/) for contact information and directions to the facility.
 
 Please keep in mind that this lab is separate from the study's research team at Dell Medical School. You may contact them with questions about the blood draw, saliva drop-off, or facility, but they do not have information regarding the rest of the study.
 
@@ -109,7 +109,7 @@ Please keep in mind that this lab is separate from the study's research team at 
 After your blood and saliva collection, you will head to HDB for the rest of your assessments and MRI scan. HDB is about 1/2 mile south of the stadium down Trinity Street. You will again arrive at the 1st floor lobby of HDB where research staff will meet you.
 
 ## Breakfast
-Before beginning your assessments, we will provide you with $10 cash and a 15-minute break for breakfast. The Nourish Cafe is located in the Health Transformation Building which is connected to HDB. (http://flikcafes.compass-usa.com/nourishcafe/Pages/Home.aspx?lid=b1) After breakfast, meet us back in the HDB lobby to continue with V2. 
+Before beginning your assessments, we will provide you with $10 cash and a 15-minute break for breakfast. [The Nourish Cafe](http://flikcafes.compass-usa.com/nourishcafe/Pages/Home.aspx?lid=b1) is located in the Health Transformation Building which is connected to HDB. After breakfast, meet us back in the HDB lobby to continue with V2. 
 
 ## MRI Scan
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible.
