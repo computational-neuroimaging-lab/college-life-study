@@ -66,9 +66,8 @@ At the end of V1, we gave you a tube for saliva collection. We'd like you to sel
 
 See below for a video demonstration:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8-AxSDHLbBE
-" target="_blank"><img src="http://img.youtube.com/vi/8-AxSDHLbBE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=8-AxSDHLbBE
+" target="_blank"><img src="http://img.youtube.com/vi/8-AxSDHLbBE/0.jpg" width="240" height="180" border="10" /></a></p>
 
 After collecting the saliva, please use the materials we've given you to keep the saliva refrigerated up to the moment you hand it to the lab tech. You can use your refrigerator at home, and ice to keep it cold during transport to the lab. 
 
