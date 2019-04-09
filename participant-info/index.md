@@ -10,7 +10,6 @@ sitemap: false
 Table of Contents
 =================
 
-   * [Table of Contents](#table-of-contents)
    * [Scheduling](#scheduling)
    * [Visit 1 (V1)](#visit-1-v1)
       * [Directions](#directions)
