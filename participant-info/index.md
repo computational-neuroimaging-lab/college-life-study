@@ -114,6 +114,9 @@ Before beginning your assessments, we will provide you with $10 cash and a 15-mi
 ## MRI Scan
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible.
 
+[Back to top](#table-of-contents)
+___
+
 # Off-season 
 After completing V2, we will keep your contact information and plan for a follow-up visit around 6 months later. We'll contact you closer to that time with details. We ask that you please notify us if you leave the university, or encounter any circumstances that would prevent you from continuing with the study. Otherwise, we will plan to repeat the process 
 
