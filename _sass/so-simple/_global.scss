@@ -25,6 +25,35 @@
     padding: 0;
     border: 0; 
   }
+   
+   .fun-widget,
+   .fun-widget * {
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     -ms-box-sizing: border-box;
+     box-sizing: border-box;
+     visibility: visible;
+     opacity: 1; }
+   
+   .fun-widget .fun-widget-btn:before {
+     position: absolute;
+     left: 0;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     z-index: 2;
+     cursor: pointer; }
+
+   .fun-widget .fun-widget-btn:focus:before {
+     background: rgba(0, 0, 0, 0.075); }
+
+   .fun-widget .fun-widget-btn:active {
+     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2) inset; }
+
+   .fun-widget .fun-widget-btn:active:before,
+   .fun-widget .fun-widget-btn:active:hover:before,
+   .fun-widget .fun-widget-btn:active:focus:before {
+  background: rgba(0, 0, 0, 0.1); }
 }
 
 .fun-widget,
