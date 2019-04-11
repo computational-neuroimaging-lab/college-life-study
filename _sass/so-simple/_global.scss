@@ -13,6 +13,17 @@
 @media only screen and (min-width : 321px) {
   .fun-widget {
     font-size: 200%;
+    display: block;
+    width: auto;
+    min-height: 30px;
+    max-height: 80px;
+    max-width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: 0; 
   }
 }
 
