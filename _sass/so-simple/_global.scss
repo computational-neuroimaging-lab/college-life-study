@@ -10,7 +10,7 @@
   }
 }
 
-@media screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) {
+@media screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) {
   .fun-widget {
     font-size: 200%;
   }
