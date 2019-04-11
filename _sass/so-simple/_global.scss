@@ -9,6 +9,13 @@
     list-style: none;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .fun-widget {
+    font-size: 200%;
+  }
+}
+
 .fun-widget,
 .fun-widget * {
   -webkit-box-sizing: border-box;
