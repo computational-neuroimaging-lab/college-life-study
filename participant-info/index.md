@@ -66,7 +66,10 @@ In the 3-4 week period after your first visit (V1) and before your second visit 
 *If these tasks are not completed by your V2, we reserve the right to cancel V2 and withdraw you from the study.*
 
 ## Home Surveys
-After V1, we will email you a link to your unique survey queue. We ask that you work on these in a setting where you can read carefully and pay close attention to the questions (such as your dorm room, library or study area). The surveys do not have to be completed in one sitting; You can use this link at any time to see which surveys remain.
+After V1, we will email you a link to your unique survey queue. We ask that you work on these in a setting where you can read carefully and pay close attention to the questions (such as your dorm room, library or study area). The surveys do not have to be completed in one sitting; You can use this link at any time to see which surveys remain. 
+
+## Dietary Assessment
+After V1, we will also email a unique username and password to the ASA24 website. This is where you will complete 3 dietary reports before returning for V2. 
 
 ## Ecological Momentary Assessments (EMA)(Beiwe app)
 In V1 we will assist you with downloading the smartphone app, [Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/). EMA is a method of data collection that tries to capture peoples’ behaviors and experiences in real time in their natural environments. After your V1, your phone will prompt you each day to answer several questions about your daily activities and behaviors. 
