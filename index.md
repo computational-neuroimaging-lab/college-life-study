@@ -2,7 +2,7 @@
 title: 
 layout: page
 image:
-  feature: RGB_university_formal_horizontal.png
+  feature: dms_logo.png
 ---
 
 ![](/images/mni152.png)
