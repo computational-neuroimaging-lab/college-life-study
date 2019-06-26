@@ -2,7 +2,7 @@
 title: 
 layout: page
 image:
-  feature: RGB_university_primary.eps
+  feature: RGB_university_formal_horizontal.eps
 ---
 
 ![](/images/mni152.png)
