@@ -2,7 +2,7 @@
 title: 
 layout: page
 image:
-  feature: RGB_university_formal_horizontal.png
+  feature: images/RGB_university_formal_horizontal.png
 ---
 ![](/images/RGB_university_formal_horizontal.png)
 ![](/images/mni152.png)
