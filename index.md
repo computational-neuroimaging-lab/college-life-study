@@ -2,9 +2,9 @@
 title: 
 layout: page
 image:
-  feature: dms_logo.png
+  feature: 
 ---
-![](/images/RGB_university_formal_horizontal.png)
+![](/images/RGB_university_formal_horizontal_scaled.png)
 ![](/images/mni152.png)
 
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!
