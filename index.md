@@ -2,7 +2,7 @@
 title: 
 layout: page
 image:
-  feature: dms_logo.png
+  feature: RGB_university_primary.eps
 ---
 
 ![](/images/mni152.png)
