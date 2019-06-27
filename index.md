@@ -5,7 +5,7 @@ image:
   feature: RGB_university_formal_horizontal_scaled.png
 ---
 
-<center><big><h1 style="color:rgb(191, 87, 0);">University of Texas College Life Brain Study</h1></big></center>
+<center><font size="48"><h1 style="color:rgb(191, 87, 0);">University of Texas College Life Brain Study</h1></font></center>
 
 ![](/images/mni152.png)
 
