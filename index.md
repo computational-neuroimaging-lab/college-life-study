@@ -2,7 +2,6 @@
 title: 
 layout: page
 image:
-  feature: RGB_university_formal_horizontal_scaled.png
 ---
 
 
