@@ -4,7 +4,7 @@ layout: page
 image:
   feature: RGB_university_formal_horizontal_scaled.png
 ---
-![](/images/RGB_university_formal_horizontal_scaled.png)
+# University of Texas Brain Study
 ![](/images/mni152.png)
 
 # Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!
