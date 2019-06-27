@@ -5,7 +5,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "UT College Life Study"
 description: "A longitudinal study of undergraduate students UT Austin."
-baseurl: "/college-life-study"
+baseurl: ""
 url: https://collegelife.utbrainstudy.org
 
 sass:
