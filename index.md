@@ -8,7 +8,7 @@ image:
 
 
 
-<p style="color:rgb(191, 87, 0); font-size:150%; font-weight: bold; text-align: center">University of Texas <br>College Life Brain Study</p>
+<p style="color:rgb(191, 87, 0); font-size:250%; font-weight: bold; text-align: center">University of Texas <br>College Life Brain Study</p>
 
 ![](/images/mni152.png)
 
