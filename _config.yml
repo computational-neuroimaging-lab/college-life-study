@@ -18,3 +18,4 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+google_analytics: UA-143032343-1
