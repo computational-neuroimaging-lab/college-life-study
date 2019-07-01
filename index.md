@@ -11,7 +11,7 @@ image:
 
 ![](/images/mni152.png)
 
-# Thank you for your interest in the Undergraduate Longitudinal Brain Study at UT Austin!
+# Thank you for your interest in the College Life Brain Study at UT Austin!
 
 
 <body style="" marginwidth="0" marginheight="0">
@@ -49,7 +49,7 @@ ___
 
 # Introduction
 
-The overall goal of the **Undergraduate Longitudinal Brain Study (ULG)** is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of [emerging adulthood](http://jeffreyarnett.com/ARNETT_Emerging_Adulthood_theory.pdf). This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit). This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. The study has been reviewed and approved by the UT Institutional Review Board (IRB study number: 2018-11-0061).
+The overall goal of the **College Life Brain Study** is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of [emerging adulthood](http://jeffreyarnett.com/ARNETT_Emerging_Adulthood_theory.pdf). This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit). This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. The study has been reviewed and approved by the UT Institutional Review Board (IRB study number: 2018-11-0061).
 
 Each year, we will be conducting a comprehensive assessment of your physical health, mental and emotional health, substance use, social factors, and neurocognitive function. These assessments provide a rich dataset for us to learn about different changes that occur throughout college. We ensure that all data will be kept confidential and stored in a secure and encrypted server.
 
