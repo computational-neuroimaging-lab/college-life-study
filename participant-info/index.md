@@ -122,7 +122,7 @@ Before entering the MRI environment, you will be asked to change into medical sc
 ___
 
 # Off-season 
-After completing V2, we will keep your contact information and plan for a follow-up visit around 6 months later. We'll contact you closer to that time with details. We ask that you please notify us if you leave the university, or encounter any circumstances that would prevent you from continuing with the study. Otherwise, we will plan to repeat the process 
+After completing V2, we will keep your contact information and plan for a follow-up visit around 6 months later. We'll contact you closer to that time with details. We ask that you please notify us if you leave the university, or encounter any circumstances that would prevent you from continuing with the study. Otherwise, we will plan to repeat the process. 
 
 [Back to top](#table-of-contents)
 
