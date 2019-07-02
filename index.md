@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-image:
+image: dms_logo.png
 ---
 
 
