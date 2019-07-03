@@ -7,7 +7,7 @@ image: dms_logo.png
 
 
 
-<p style="color:rgb(191, 87, 0); font-size:300%; font-weight: bold; text-align: center">University of Texas <br>College Life Brain Study</p>
+<p style="color:rgb(191, 87, 0); font-size:300%; font-weight: bold; text-align: center">College Life Brain Study<br>The University of Texas at Austin</p>
 
 ![](/images/mni152.png)
 
