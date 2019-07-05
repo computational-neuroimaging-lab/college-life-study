@@ -32,6 +32,7 @@ ___
 # Scheduling
 After completing the [study screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH), eligible participants will receive an email from 'College Life Study Registration' (utexas-collegelife-admin@sona-systems.net). This email will include your login information and a link to the Sona Systems registration site. After logging in, you will have the ability to change your password or modify your contact information. To register, click 'View Available Studies' on the main page, and follow instructions to schedule both of your study visits. After registering you will have the option to directly email the researcher that will host your study visit. 
 
+___
 
 # Visit 1 (V1)
 ## Directions
@@ -60,26 +61,6 @@ The Northbound metro routes 7 and 10 both stop directly in front of HDB, and are
 
 ___
 
-# At-home tasks
-In the 3-4 week period after your first visit (V1) and before your second visit (V2), you will be asked to complete a series of at-home tasks. These tasks are *just as important* as the tasks you complete during your lab visits. Our goal is to make participating as convenient as possible and minimize the time you spend in our lab. You will be compensated for these tasks when you return for V2. 
-
-*If these tasks are not completed by your V2, we reserve the right to cancel V2 and withdraw you from the study.*
-
-## Home Surveys
-After V1, we will email you a link to your unique survey queue. We ask that you work on these in a setting where you can read carefully and pay close attention to the questions (such as your dorm room, library or study area). The surveys do not have to be completed in one sitting; You can use this link at any time to see which surveys remain. 
-
-## Dietary Assessment
-After V1, we will also email a unique username and password to the ASA24 website. This is where you will complete 3 dietary reports before returning for V2. 
-
-## Ecological Momentary Assessments (EMA)(Beiwe app)
-In V1 we will assist you with downloading the smartphone app, [Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/). EMA is a method of data collection that tries to capture peoples’ behaviors and experiences in real time in their natural environments. After your V1, your phone will prompt you each day to answer several questions about your daily activities and behaviors. 
-
-In addition to pushing these surveys, the Beiwe application passively collects phone data from your phone's sensors and radios. It CANNOT access the content of your messages, calls or websites/apps visited, microphone, camera nor can it identify anyone you interact with. 
-
-[Back to top](#table-of-contents)
-
-___
-
 # Visit 2 (V2)
 ## 8-hour fast
 We are requesting that you refrain from eating or drinking any food or beverage other than water for 8 hours prior to your scheduled V2 visit. This is so that all of the bio-markers in your blood and saliva are collected at baseline, and not influenced by your recent diet. You'll have a chance to eat after the blood and saliva collection, before continuing with the rest of the study visit. 
@@ -100,7 +81,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="450" allowfullscreen border="10" /
 After collecting the saliva, please use the materials we've given you to keep the saliva refrigerated up to the moment you hand it to the lab tech. You can use your refrigerator at home, and ice to keep it cold during transport to the lab. 
 
 ## Saliva drop-off and blood draw (Health and Integrative Physiology Lab)
-Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab (HIPL). This is where you will bring your saliva tube and have your blood drawn. Please [visit their website](https://sites.edb.utexas.edu/hipl/contact/) for contact information and directions to the facility.
+Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab (HIPL). This is where you will bring your saliva tube and have your blood drawn. The HIPL will also collect a 3 cm hair sample, which provides a way to measure chronic stress over the past 3 months. Please [visit their website](https://sites.edb.utexas.edu/hipl/contact/) for contact information and directions to the facility.
 
 Please keep in mind that the HIPL is separate from the study's research team at Dell Medical School. You may contact HIPL with questions about the blood draw, saliva drop-off, or facility, but they do not have information regarding the rest of the study.
 
@@ -116,6 +97,26 @@ Before beginning your assessments, we will provide you with $10 cash and a 15-mi
 
 ## MRI Scan
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible.
+
+[Back to top](#table-of-contents)
+
+___
+
+# At-home tasks
+In the 3-4 week period after your first visit (V1) and before your second visit (V2), you will be asked to complete a series of at-home tasks. These tasks are *just as important* as the tasks you complete during your lab visits. Our goal is to make participating as convenient as possible and minimize the time you spend in our lab. You will be compensated for these tasks when you return for V2. 
+
+*If these tasks are not completed by your V2, we reserve the right to cancel V2 and withdraw you from the study.*
+
+## Home Surveys
+After V1, we will email you a link to your unique survey queue. We ask that you work on these in a setting where you can read carefully and pay close attention to the questions (such as your dorm room, library or study area). The surveys do not have to be completed in one sitting; You can use this link at any time to see which surveys remain. 
+
+## Dietary Assessment
+After V1, we will also email a unique username and password to the ASA24 website. This is where you will complete 3 dietary reports before returning for V2. 
+
+## Ecological Momentary Assessments (EMA)(Beiwe app)
+In V1 we will assist you with downloading the smartphone app, [Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/). EMA is a method of data collection that tries to capture peoples’ behaviors and experiences in real time in their natural environments. After your V1, your phone will prompt you each day to answer several questions about your daily activities and behaviors. 
+
+In addition to pushing these surveys, the Beiwe application passively collects phone data from your phone's sensors and radios. It CANNOT access the content of your messages, calls or websites/apps visited, microphone, camera nor can it identify anyone you interact with. 
 
 [Back to top](#table-of-contents)
 
