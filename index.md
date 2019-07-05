@@ -64,7 +64,7 @@ ___
 
 # What will you be asked to do?
 
-If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, about 3 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
+If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits. After your 2 study visits, we will provide you a series of to complete within a 3-week period ([See details here](http://collegelife.utbrainstudy.org/participant-info/#at-home-tasks)). They should take no more than 3 hours to complete. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
 
 ## V1 visits
 The first study visit (V1) takes about 2.5 hours. During your very first V1 visit, we will explain the procedures of the research study in depth. If you agree to continue, you will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
