@@ -95,11 +95,11 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 
 | Session                        | When                      | Approximate Duration                        | Compensation |
 |--------------------------------|---------------------------|---------------------------------------------|--------------|
-| V1: Baseline                 | Spring                    | 2.5 hrs                                     | $20          |
-| At-home assessments            | Spring                    | Daily reports + 3 hrs of online assessments | $20          |
-| V2 assessments + biospecimen | Spring (3 weeks after V1) | 2 hrs                                       | $20          |
-| V2 MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
-| Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
+| V1: Baseline                 | Fall                    | 2.5 hrs                                     | $20          |
+| V2 assessments + biospecimen | Fall  | 2 hrs                                       | $20          |
+| V2 MRI scan                  | Fall  | 1.5 hrs                                     | $40          |
+| At-home assessments            | Fall                    | Daily reports + 3 hrs of online assessments | $20          |
+| Mid-year check in visit        | Spring                      | 1 hr                                        | $20          |
 
 ___
 
