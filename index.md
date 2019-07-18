@@ -64,13 +64,13 @@ ___
 
 # What will you be asked to do?
 
-If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits. After your 2 study visits, we will provide you a series of to complete within a 3-week period ([See details here](http://collegelife.utbrainstudy.org/participant-info/#at-home-tasks)). They should take no more than 3 hours to complete. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
+If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits. After your 2 study visits, we will give you a list of at-home assessments to complete within a 3-week period ([See details here](http://collegelife.utbrainstudy.org/participant-info/#at-home-tasks)). They should take no more than 3 hours to complete. During this 3-week period, we will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
 
 ## V1 visits
 The first study visit (V1) takes about 2.5 hours. During your very first V1 visit, we will explain the procedures of the research study in depth. If you agree to continue, you will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
 
 ## V2 visits
-The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am) approximately 3 weeks after the V1 visit. On the morning of your V2 visit, we will ask you to provide a saliva sample immediately after waking up ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#saliva-collection)). We will provide you a saliva collection tube during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. 
+The second study visit (V2) takes about 4 hours to complete and will occur in the morning (around 8 am). On the morning of your V2 visit, we will ask you to provide a saliva sample immediately after waking up ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#saliva-collection)). We will provide you a saliva collection tube during your V1 visit. The purpose for the saliva samples is to assess cortisol levels, a hormone related to stress. We will also collect 2-3 strands of hair, approximately 3 cm in length. The hair samples provide a longer term analysis of chronic stress levels, whereas the saliva samples show your stress levels around the time of collection.
 
 Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of your metabolic health. You will begin your V2 visit at the Health and Integrative Physiology Lab where Dr. Harrison will perform a blood draw ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#blood-collection)). When you first arrive at our facility, we will collect your saliva sample and measure your height, weight, waist circumference, and vital signs. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. 
 
@@ -95,7 +95,7 @@ You can receive up to $120/year. We will pay for breakfast on the fasting days, 
 
 | Session                        | When                      | Approximate Duration                        | Compensation |
 |--------------------------------|---------------------------|---------------------------------------------|--------------|
-| V1: Baseline                 | Fall                    | 2.5 hrs                                     | $20          |
+| V1: Baseline                 | Fall                    | 3 hrs                                     | $20          |
 | V2 assessments + biospecimen | Fall  | 2 hrs                                       | $20          |
 | V2 MRI scan                  | Fall  | 1.5 hrs                                     | $40          |
 | At-home assessments            | Fall                    | Daily reports + 3 hrs of online assessments | $20          |
