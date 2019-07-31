@@ -15,16 +15,18 @@ Table of Contents
       * [Directions](#directions)
       * [Arrival](#arrival)
       * [Departure](#departure)
-   * [At-home tasks](#at-home-tasks)
-      * [Home Surveys](#home-surveys)
-      * [Ecological Momentary Assessments (EMA)(Beiwe app)](#ecological-momentary-assessments-emabeiwe-app)
    * [Visit 2 (V2)](#visit-2-v2)
       * [8-hour fast](#8-hour-fast)
       * [At-home saliva preparation (morning of V2)](#at-home-saliva-preparation-morning-of-v2)
       * [Saliva drop-off and blood draw (Health and Integrative Physiology Lab)](#saliva-drop-off-and-blood-draw-health-and-integrative-physiology-lab)
       * [Health Discovery Building (HDB)](#health-discovery-building-hdb)
       * [Breakfast](#breakfast)
+      * [3D Body Scan](#3d-body-scan)
       * [MRI Scan](#mri-scan)
+   * [At-home tasks](#at-home-tasks)
+      * [Home Surveys](#home-surveys)
+      * [Ecological Momentary Assessments (EMA)(Beiwe app)](#ecological-momentary-assessments-emabeiwe-app)
+   
    * [Off-season](#off-season)
 
 ___
@@ -94,6 +96,9 @@ After your blood and saliva collection, you will head to HDB for the rest of you
 
 ## Breakfast
 Before beginning your assessments, we will provide you with $10 cash and a 15-minute break for breakfast. [The Nourish Cafe](http://flikcafes.compass-usa.com/nourishcafe/Pages/Home.aspx?lid=b1) is located in the Health Transformation Building which is connected to HDB. After breakfast, meet us back in the HDB lobby to continue with V2. 
+
+## 3D Body Scan
+We will perform a quick 3D body scan ([Fit 3D](http://www.fit3d.com)) that assesses body composition and other physical health measures. This is a self-administered scan that takes a few minutes to complete. The scan requires you to wear form fitting clothes (e.g., compression shorts, yoga pants, sports bra, etc.). The results of your body scan will be sent to your phone within a few minutes of completing the scan.
 
 ## MRI Scan
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible.
