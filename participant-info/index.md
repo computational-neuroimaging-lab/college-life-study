@@ -70,7 +70,7 @@ We are requesting that you refrain from eating or drinking any food or beverage 
 ## At-home saliva preparation (morning of V2)
 At the end of V1, we gave you a tube for saliva collection. We'd like you to self-administer your saliva collection at home the morning of V2. Here are some important reminders:
 
-- collect saliva immediately after you wake up (before brushing teeth) 
+- collect saliva immediately after you wake up (before brushing teeth, showering, etc.) 
 - avoid eating or drinking before sample collection
 
 See below for a video demonstration:
