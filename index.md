@@ -74,7 +74,7 @@ The second study visit (V2) takes about 4 hours to complete and will occur in th
 
 Additionally, we will ask you to fast overnight 8 hours before coming in for your visit (breakfast will be provided). The purpose of fasting is to ensure accurate assessment of your metabolic health. You will begin your V2 visit at the Health and Integrative Physiology Lab where Dr. Michelle Harrison will perform a blood draw ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#blood-collection)). When you first arrive at our facility, we will collect your saliva sample and store it in a secured freezer. Then, a trained research staff member will draw a small sample of blood (2 x 9 mL vials) for glucose and genetic testing. 
 
-After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will meet our research staff at the Health Discovery Building for more assessments. We will perform a 3D body scan that measures your body composition, height, weight, waist circumference, etc. ([See details here](http://computational-neuroimaging-lab.org/college-life-study/participant-info/#3d-body-scan). You will then undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
+After the blood draw, we will escort you to a cafe to eat breakfast. After breakfast, you will meet our research staff at the Health Discovery Building for more assessments. You will then undergo a series of cognitive tests (memory, attention, problem solving, etc.) and an MRI (Magnetic Resonance Imaging) scan. MRIs are non-invasive and use no radiation or dyes. 
 
 
 ## Mid-year check in visits
