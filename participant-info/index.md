@@ -97,16 +97,6 @@ After your blood and saliva collection, you will head to HDB for the rest of you
 ## Breakfast
 Before beginning your assessments, we will provide you with $10 cash and a 15-minute break for breakfast. [The Nourish Cafe](http://flikcafes.compass-usa.com/nourishcafe/Pages/Home.aspx?lid=b1) is located in the Health Transformation Building which is connected to HDB. After breakfast, meet us back in the HDB lobby to continue with V2. 
 
-## 3D Body Scan
-We will perform a quick 3D body scan ([Fit 3D](http://www.fit3d.com)) that assesses body composition and other physical health measures. This is a self-administered scan in a private room and takes a few minutes to complete. To ensure accurate measurements, please wear form fitting clothes (e.g., compression shorts, yoga pants, sports bra, etc.) and wear your hair up, if applicable. The results of your body scan will be sent to your phone within a few minutes of completing the scan.
-
-See below for a video demonstration of the body scan:
-
-<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=bP-NS_32weI
-" target="_blank"><img src="http://img.youtube.com/vi/bP-NS_32weI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="450" allowfullscreen border="10" /></a></p>
-
-
 ## MRI Scan
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible. We will give you a print out of your MRI as a souvenir.
 
