@@ -83,9 +83,15 @@ alt="IMAGE ALT TEXT HERE" width="600" height="450" allowfullscreen border="10" /
 After collecting the saliva, please use the materials we've given you to keep the saliva refrigerated up to the moment you hand it to the lab tech. You can use your refrigerator at home, and ice to keep it cold during transport to the lab. 
 
 ## Saliva drop-off and blood draw (Health and Integrative Physiology Lab)
-Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab (HIPL). This is where you will bring your saliva tube and have your blood drawn. The HIPL will also collect a 3 cm hair sample, which provides a way to measure chronic stress over the past 3 months. Please [visit their website](https://sites.edb.utexas.edu/hipl/contact/) for contact information and directions to the facility.
+Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab (HIPL). This is where you will bring your saliva tube and have your blood drawn. 
 
-Please keep in mind that the HIPL is separate from the study's research team at Dell Medical School. You may contact HIPL with questions about the blood draw, saliva drop-off, or facility, but they do not have information regarding the rest of the study.
+### Weekday Visits
+If you plan to drive, please contact Mike Dial (michael.dial@utexas.edu) at least 48-hours before your visit so that he can reserve a parking pass. On the day of, you may park in one of the F84 parking spaces at the stadium near the parking kiosk.  When you arrive, text or call Mike (801-891-5699)(weekdays only!) so that he can bring your parking pass to you and escort you up to the lab.
+
+If you are walking or biking, you may enter Bellmont and take the lobby elevators up to the 8th floor. The lab is just down the hallway through the door marked 822.
+
+### Weekend Visits (Saturday, Sunday and Labor Day)
+On weekends, doors to Bellmont are locked. However, we have given limited UT ID Card access for participants scheduled on weekends. If you have trouble getting in, call Drew Gourley (225-571-6971)(weekends/holiday only!), and he will meet you at the entrance to let you in.
 
 <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d861.3375200083677!2d-97.73450441187457!3d30.2840939569484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd39eb9243dd31bf1!2sL.+Theo+Bellmont+Hall+(BEL)!5e0!3m2!1sen!2sus!4v1554750288172!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
 
@@ -95,7 +101,7 @@ Please keep in mind that the HIPL is separate from the study's research team at 
 After your blood and saliva collection, you will head to HDB for the rest of your assessments and MRI scan. HDB is about 1/2 mile south of the stadium down Trinity Street. You will again arrive at the 1st floor lobby of HDB where research staff will meet you.
 
 ## Breakfast
-Before beginning your assessments, we will provide you with $10 cash and a 15-minute break for breakfast. [The Nourish Cafe](http://flikcafes.compass-usa.com/nourishcafe/Pages/Home.aspx?lid=b1) is located in the Health Transformation Building which is connected to HDB. After breakfast, meet us back in the HDB lobby to continue with V2. 
+Before beginning your assessments, we will provide breakfast and a short break before continuing the study.
 
 ## MRI Scan
 Before entering the MRI environment, you will be asked to change into medical scrubs (provided) and remove all metal from your body, hair and clothing. Please plan accordingly and dress in comfortable clothing with no metal and avoid hair products, accessories, glittery nail polish and jewelry if possible. We will give you a print out of your MRI as a souvenir.
