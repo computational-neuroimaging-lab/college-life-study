@@ -85,10 +85,11 @@ After collecting the saliva, please use the materials we've given you to keep th
 ## Saliva drop-off and blood draw (Health and Integrative Physiology Lab)
 Your first appointment for V2 will be scheduled at the Health and Integrative Physiology Lab (HIPL). This is where you will bring your saliva tube and have your blood drawn. 
 
-### Weekday Visits
+### Driving
 If you plan to drive, please contact Mike Dial (michael.dial@utexas.edu) at least 48-hours before your visit so that he can reserve a parking pass. On the day of, you may park in one of the F84 parking spaces at the stadium near the parking kiosk.  When you arrive, text or call Mike (801-891-5699)(weekdays only!) so that he can bring your parking pass to you and escort you up to the lab.
 
-If you are walking or biking, you may enter Bellmont and take the lobby elevators up to the 8th floor. The lab is just down the hallway through the door marked 822.
+### Walking
+If you are walking or biking, enter Bellmont Hall from the San Jancinto side. Enter the doors next to the UT apparel store and take the lobby elevators up to the 8th floor. The lab is just down the hallway through the door marked 822.
 
 ### Weekend Visits (Saturday, Sunday and Labor Day)
 On weekends, doors to Bellmont are locked. However, we have given limited UT ID Card access for participants scheduled on weekends. If you have trouble getting in, call Drew Gourley (225-571-6971)(weekends/holiday only!), and he will meet you at the entrance to let you in.
